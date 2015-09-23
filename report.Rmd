@@ -1,7 +1,8 @@
 ---
 title: Practical Machine Learning Project - Quantified Self Movement Data Analysis
   Report
-author: "by Christian Schmidt"
+author: "Christian Schmidt"
+date: "23/09/2015"
 output:
   html_document:
     fig_height: 9
